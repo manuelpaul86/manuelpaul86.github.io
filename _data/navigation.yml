@@ -1,0 +1,6 @@
+- name: Start
+  link: /
+  name: Referenten
+  link: /referenten.html
+- name: Impressum
+  link: /impressum.html
