@@ -1,0 +1,75 @@
+- name: Alexion
+  fullname: Alexion Pharma Germany GmbH
+  logo: /assets/sponsoren/alexion.svg
+  link: https://www.alexion.de/
+  betrag: 2.400€
+- name: AMGEN
+  fullname: AMGEN GmbH
+  logo: /assets/sponsoren/amgen.svg
+  link: https://www.amgen.de
+  betrag: 2.400€
+- name: AstraZeneca
+  fullname: AstraZeneca GmbH
+  logo: /assets/sponsoren/astrazeneca.jpeg
+  link: https://www.astrazeneca.de
+  betrag: 2.400€
+- name: Bayer
+  fullname: Bayer AG
+  logo: /assets/sponsoren/bayer.svg
+  link: https://www.bayer.com/de/
+  betrag: 2.400€
+- name: B.Braun
+  fullname: B. Braun Melsungen AG
+  logo: /assets/sponsoren/bbraun.png
+  link: https://www.bbraun.de/
+  betrag: 2.400€
+- name: Boehringer Ingelheim
+  fullname: Boehringer Ingelheim Pharma GmbH & Co. KG
+  logo: /assets/sponsoren/boehringer-ingelheim.jpg
+  link: https://www.boehringer-ingelheim.de
+  betrag: 2.400€
+- name: Chiesi
+  fullname: Chiesi GmbH
+  logo: /assets/sponsoren/chiesi.png
+  link: https://www.chiesi.de
+  betrag: 2.400€
+- name: Fresenius Medical Care
+  fullname: Fresenius Medical Care AG & Co. KGaA
+  logo: /assets/sponsoren/fresenius.png
+  link: https://www.freseniusmedicalcare.com/de/startseite/
+  betrag: 2.400€
+- name: GlaxoSmithCline
+  fullname: GlaxoSmithKline GmbH & Co. KG
+  logo: /assets/sponsoren/gsk.png
+  link: https://de.gsk.com/de-de/
+  betrag: 2.400€
+- name: Hexal
+  fullname: Hexal AG
+  logo: /assets/sponsoren/hexal.svg
+  link: https://www.hexal.de
+  betrag: 2.400€
+- name: Novartis
+  fullname: Novartis Pharma GmbH
+  logo: /assets/sponsoren/novartis.svg
+  link: https://www.novartis.de
+  betrag: 2.400€
+- name: Otsuka
+  fullname: Otsuka Pharmaceutical Europe Ltd.
+  logo: /assets/sponsoren/otsuka.png
+  link: https://www.otsuka-europe.com/de/
+  betrag: 2.400€
+- name: Sanofi-Aventis
+  fullname: Sanofi-Aventis Deutschland GmbH
+  logo: /assets/sponsoren/sanofi.png
+  link: https://www.sanofi.de
+  betrag: 2.400€
+- name: Tauro-Implant
+  fullname: Tauro-Implant GmbH
+  logo: /assets/sponsoren/tauro.png
+  link: https://www.tauro-implant.de
+  betrag: 2.400€
+- name: Vifor
+  fullname: Vifor Pharma Deutschland GmbH
+  logo: /assets/sponsoren/vifor.png
+  link: https://www.viforpharma.com/de
+  betrag: 2.400€
