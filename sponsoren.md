@@ -2,6 +2,6 @@
 layout: default
 title: Sponsoren
 ---
-## Sehr geehrte Damen und Herren,
+## Folgende Firmen unterstützen uns bei den BNG:
 
 hier erfahren Sie mehr über unsere Unterstützer.
