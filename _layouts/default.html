@@ -25,10 +25,14 @@
         <div class="column column-80">
         <p>{{ content }}</p>
         </div>
-        <div class="column column-10 column-offset-10">
-        <p>{% include sponsoren.html %}</p>
-        </div>
       </div>
-    </div>
+      <div class="row">
+        <h4>Unterstützt durch:</h4>
+      </div>
+      <div class="row">
+        {% include sponsoren.html %}
+      </div>
+      </div>
+        </div>
   </body>
 </html>
