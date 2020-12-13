@@ -5,30 +5,32 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
     <link rel="stylesheet" href="/assets/css/normalize.css">
     <link rel="stylesheet" href="/assets/css/milligram.css">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <title>{{ page.title }}</title>
   </head>
   <body>
+    <div class="row">
+      <div class="column column-title">
+        <p>
+        <a href="/index.html" style="color:#606c76;"><h1>Barmbeker Nephrologen Gespräche</h1></a>
+        </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="column column-navigation">
+        <p>{% include navigation.html %}</p>
+      </div>
+    </div>
     <div class="container">
-      <div class="row">
-        <div class="column column-title">
-          <p>
-          <h1>Barmbeker Nephrologen Gespräche</h1>
-          </p>
-        </div>
-      </div>
-      <div class="row">
-        <div class="column column-navigation">
-          <p>{% include navigation.html %}</p>
-        </div>
-      </div>
       <div class="row">
         <div class="column column-80">
         <p>{{ content }}</p>
         </div>
-        <div class="column column-10 column-offset-10">
-        <p>{% include sponsoren.html %}</p>
-        </div>
       </div>
-    </div>
+      <div class="row">
+        <h4>Unterstützt durch:</h4>
+      </div>
+        {% include sponsoren.html %}
+      </div>
   </body>
 </html>
