@@ -5,6 +5,7 @@ title: Barmbeker Nephrologen Gespräche
 # Sehr geehrte Damen und Herren,
 
 das letzte Barmbeker Nephrologen Gespräch 2020 findet erneut online statt und kann deutschlandweit über diese Seite, sowie über die Homepage der Deutschen Gesellschaft für Nephrologie angewählt werden.
+![Bild Prof. Dr. Meyer](/assets/images/CA_Meyer.jpg)
 
 Am 10. Dezember 2020 geht es um die Fortschritte rund um Pathogenese, Klinik und Therapie der idiopathischen membranösen Nephropathie.
 
