@@ -1,0 +1,8 @@
+<div class ="image-gallery">
+  {% for item in site.data.sponsoren %}
+       <div class="box">
+         <a href="{{item.link}}" title="{{item.fullname}}">
+         <img src="{{item.logo}}" alt="{{item.name}}"  class="img-gallery" />
+       </a></div>
+  {% endfor %}
+ </div>
