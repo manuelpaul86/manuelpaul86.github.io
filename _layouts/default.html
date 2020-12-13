@@ -8,7 +8,15 @@
     <title>{{ page.title }}</title>
   </head>
   <body>
-    <p>{% include navigation.html %}</p>
-    <p>{{ content }}</p>
+    <div class="container">
+      <div class="row">
+        <div class="column column-25">
+        <p>{% include navigation.html %}</p>
+        </div>
+        <div class="column column-75">
+        <p>{{ content }}</p>
+        </div>
+      </div>
+    </div>
   </body>
 </html>
