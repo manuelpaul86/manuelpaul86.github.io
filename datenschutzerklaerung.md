@@ -2,4 +2,4 @@
 layout: default
 title: Datenschutzerklärung
 ---
-# Datenschutzerklärung
+## Datenschutzerklärung
