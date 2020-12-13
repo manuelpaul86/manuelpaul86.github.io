@@ -341,6 +341,22 @@ input[type='radio'] {
   width: 100%;
 }
 
+.row .column.column-title {
+  margin: auto;
+  text-align: center;
+  border-bottom-color: grey;
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+}
+
+.row .column.column-navigation {
+  margin: auto;
+  text-align: center;
+  border-bottom-color: grey;
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+}
+
 .row .column.column-offset-10 {
   margin-left: 10%;
 }
