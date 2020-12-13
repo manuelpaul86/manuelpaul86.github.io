@@ -1,4 +1,4 @@
-- name: Start
+- name: Startseite
   link: /
 - name: Referenten
   link: /referenten.html
@@ -6,6 +6,8 @@
   link: /infos.html
 - name: Termine
   link: /termine.html
+- name: Sponsoren
+  link: /sponsoren.html
 - name: Impressum
   link: /impressum.html
 - name: Datenschutzerklaerung
