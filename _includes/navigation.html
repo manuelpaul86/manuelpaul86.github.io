@@ -1,10 +1,5 @@
 <nav>
-  <h4>Navigation</h4>
-  <dl>
   {% for item in site.data.navigation %}
-    <dt>
-    <a href="{{item.link}}" {% if page.url == item.link %}style="color: green;"{% endif %}>{{item.name}}</a>
-    </dt>
+    <a href="{{item.link}}" {% if page.url == item.link %}style="color: green;"{% endif %}> {{ item.name }} </a>
   {% endfor %}
-  </dl>
 </nav>
