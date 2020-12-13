@@ -4,6 +4,7 @@ title: Barmbeker Nephrologen Gespräche
 ---
 ## Sehr geehrte Damen und Herren,
 
+<img src="/assets/images/CA_Meyer.jpg" height="200rem" style="float:right; margin-left:20px; margin-bottom:20px;">
 das letzte Barmbeker Nephrologen Gespräch 2020 findet erneut online statt und kann deutschlandweit über diese Seite, sowie über die Homepage der Deutschen Gesellschaft für Nephrologie angewählt werden.
 
 Am 10. Dezember 2020 geht es um die Fortschritte rund um Pathogenese, Klinik und Therapie der idiopathischen membranösen Nephropathie.
@@ -15,6 +16,8 @@ Klinik und Therapie der membranösen Nephropathie. Er koordiniert die vielen von
 
 Wir würden uns wie immer sehr freuen, diese Themen bei dieser 149. Veranstaltung mit Ihnen diskutieren zu dürfen.
 
-Mit herzlichen Grüßen Ihr
+Mit herzlichen Grüßen Ihr  
 
-Hon.-Prof. Dr. med. Tobias N. Meyer
+![Unterschrift Prof. Meyer](/assets/images/unterschrift-meyer.png)  
+
+Hon.-Prof. Dr. med. Tobias N. Meyer  

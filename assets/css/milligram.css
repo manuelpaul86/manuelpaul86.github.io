@@ -339,6 +339,7 @@ input[type='radio'] {
   margin-left: 0;
   max-width: 100%;
   width: 100%;
+  text-align: justify;
 }
 
 .row .column.column-title {
@@ -355,6 +356,10 @@ input[type='radio'] {
   border-bottom-color: grey;
   border-bottom-style: solid;
   border-bottom-width: thin;
+}
+
+.row .column.column-offset-5 {
+  margin-left: 5%;
 }
 
 .row .column.column-offset-10 {

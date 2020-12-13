@@ -1,6 +1,24 @@
-{% for item in site.data.sponsoren %}
-        <div class="column">
-        <a href="{{item.link}}" title="{{item.fullname}} {{item.betrag}}">
-        <img src="{{item.logo}}" alt="{{item.name}} {{item.betrag}}"/>
-        </div>
+<div class="row row-center">
+{% for item in site.data.sponsoren limit: 5 %}
+  <div class="column column-10 column-offset-5 column-center">
+    <a href="{{item.link}}" title="{{item.fullname}} {{item.betrag}}">
+    <img src="{{item.logo}}" alt="{{item.name}} {{item.betrag}}"/>
+  </div>
 {% endfor %}
+</div>
+<div class="row row-center">
+{% for item in site.data.sponsoren offset: 5 limit: 5 %}
+  <div class="column column-10 column-offset-5 column-center">
+    <a href="{{item.link}}" title="{{item.fullname}} {{item.betrag}}">
+    <img src="{{item.logo}}" alt="{{item.name}} {{item.betrag}}"/>
+  </div>
+{% endfor %}
+</div>
+<div class="row row-center">
+{% for item in site.data.sponsoren offset:10 limit: 5 %}
+  <div class="column column-10 column-offset-5 column-center">
+    <a href="{{item.link}}" title="{{item.fullname}} {{item.betrag}}">
+    <img src="{{item.logo}}" alt="{{item.name}} {{item.betrag}}"/>
+  </div>
+{% endfor %}
+</div>
