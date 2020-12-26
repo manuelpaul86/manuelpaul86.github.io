@@ -351,6 +351,7 @@ input[type='radio'] {
 }
 
 .row .column.column-navigation {
+  align-self: center;
   margin: auto;
   text-align: center;
   border-bottom-color: grey;
@@ -491,7 +492,7 @@ a {
 }
 
 a:focus, a:hover {
-  color: #004214;
+  color: #000000;
 }
 
 dl,
@@ -652,17 +653,21 @@ img {
 .float-right {
   float: right;
 }
-/* Classes relevant for Navigation-Bar */
-nav {
 
-}
+/* Classes relevant for Navigation-Bar */
 
 .menu {
-
+  text-align: center;
 }
 
 .menu-list {
-
+  display: -webkit-inline-flex;
+	display: inline-flex;
+	-webkit-flex-wrap: wrap;
+	flex-wrap: wrap;
+	margin: 0;
+	padding: 0;
+	list-style: none;
 }
 
 .menu-item {
@@ -670,7 +675,17 @@ nav {
 }
 
 .menu-link {
-  
+	margin: 0 1rem;
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+	border-bottom-style: solid;
+}
+.menu-link:active {
+  border-bottom-style: solid;
 }
 
 /*# sourceMappingURL=milligram.css.map */
