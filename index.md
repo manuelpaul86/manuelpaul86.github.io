@@ -1,5 +1,5 @@
 ---
-layout: landingpage
+layout: default
 title: Barmbeker Nephrologen Gespräche
 ---
 ## Sehr geehrte Damen und Herren,
