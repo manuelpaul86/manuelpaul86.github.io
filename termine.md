@@ -4,6 +4,8 @@ title: Termine
 ---
 ## Termine in 2021
 
+Für 2021 haben wir Ihnen ein abwechslungsreiches und interessantes Programm mit hochkarätigen Referenten zusammenstellen können. Sie sehen nachfolgend den Fortbildungsplan für 2021. Nähere Informationen zu den Inhalten und den Referenten stellen wir Ihnen hier auf dieser Seite rechtzeitig vor den jeweiligen Terminen zur Verfügung.
+
 #### 150. BNG am 21.01.2021  
 Langwirksame Immunsuppression - Prof. Reuter Münster  
 Transplantations-Update - Prof. Kunzendorf, Kiel  
