@@ -11,7 +11,7 @@ Langwirksame Immunsuppression - Prof. Reuter Münster
 Transplantations-Update - Prof. Kunzendorf, Kiel  
 
 #### 151. BNG am 18.02.2021  
-Renale Anämie - Prof. Eckardt, Berlin  
+Renale Anämie - N.N.  
 Morbus Fabry - Prof. Brandt, Münster  
 
 #### 152. BNG am 18.03.2021  
@@ -31,7 +31,7 @@ sHPT - Prof. Ketteler, Stuttgart
 Gichtnephropathie - Dr. Dannemeyer, Hamburg  
 
 #### 156. BNG am 19.08.2021  
-Aldosteronantagonisten - Prof. Haller, Hannover  
+Aldosteronantagonisten - N.N.
 SGLT2 Hemmer und GLP-1 Agonisten - Prof. Meyer, Hamburg  	
 
 #### 157. BNG am 21.10.2021  
