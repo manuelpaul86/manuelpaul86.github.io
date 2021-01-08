@@ -11,6 +11,7 @@ Langwirksame Immunsuppression - Prof. Dr. med. Stefan Reuter, UK Münster
 Transplantations-Update - Prof. Dr. med. Ulrich Kunzendorf, UK Kiel	 
 
 #### 151. BNG am 18.02.2021  
+  
 Renale Anämie - Prof. Dr. med. Kai-Uwe Eckardt, Charite Berlin  
 Morbus Fabry - Prof. Dr. med. Eva Brandt, UK Münster   
 
@@ -31,6 +32,7 @@ Sekundärer Hyperparathyreoidismus - Prof. Markus Ketteler, Stuttgart
 Gichtnephropathie - Dr. med. Hendrik Dannemeyer, Hamburg  
 
 #### 156. BNG am 19.08.2021  
+  
 Aldosteronantagonisten - Prof. Dr. med. Hermann Haller, MHH, Hannover    
 SGLT2 Hemmer und GLP-1 Agonisten - Hon. Prof. Dr. med. Tobias Meyer, Hamburg  	
 

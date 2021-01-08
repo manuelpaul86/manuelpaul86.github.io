@@ -4,7 +4,8 @@ title: Infos
 ---
 ## Weitere Informationen zur Teilnahme
 
-Die Barmbeker Nephrologen Gespräche finden zur Zeit Online statt. Wir benutzen hierzu Microsoft Teams, [welches sie hier](https://www.microsoft.com/de-de/microsoft-365/microsoft-teams/download-app) kostenlos herunterladen können.
+Die Barmbeker Nephrologen Gespräche finden zur Zeit Online statt.   
+[Wir benutzen hierzu Microsoft Teams, welches sie hier kostenlos herunterladen können.](https://www.microsoft.com/de-de/microsoft-365/microsoft-teams/download-app) 
 
 Auch Versionen für Mobilgeräte sind verfügbar:  
 
