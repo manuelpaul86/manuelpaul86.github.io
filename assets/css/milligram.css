@@ -343,7 +343,7 @@ input[type='radio'] {
 }
 
 .row .column.column-title {
-  margin: auto;
+  margin-top: 1%;
   text-align: center;
   border-bottom-color: grey;
   border-bottom-style: solid;
@@ -352,11 +352,17 @@ input[type='radio'] {
 
 .row .column.column-navigation {
   align-self: center;
-  margin: auto;
-  text-align: center;
   border-bottom-color: grey;
   border-bottom-style: solid;
   border-bottom-width: thin;
+}
+
+.row .column.column-footer {
+  margin-top: 2%;
+  opacity: 80%;
+  border-top-color: black;
+  border-top-style: solid;
+  border-top-width: thin;
 }
 
 .row .column.column-offset-5 {
@@ -658,6 +664,10 @@ img {
 
 .menu {
   text-align: center;
+}
+
+.menu-footer {
+  text-align: right;
 }
 
 .menu-list {

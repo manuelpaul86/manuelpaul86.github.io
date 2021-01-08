@@ -10,30 +10,32 @@
   </head>
   <body>
     <div class="row">
-      <div class="column column-title">
+      <div class="column column-offset-10 column-80 column-title">
         <p>
         <a href="/index.html" style="color:#606c76;"><h1>Barmbeker Nephrologen Gespräche</h1></a>
         </p>
       </div>
     </div>
     <div class="row">
-      <div class="column column-navigation">
+      <div class="column column-offset-10 column-80 column-navigation">
         <p>{% include navigation.html %}</p>
       </div>
     </div>
     <div class="container">
       <div class="row">
-        <div class="column column-80">
+        <div class="column column-offset-10 column-80">
         <p>{{ content }}</p>
         </div>
       </div>
       <div class="row">
-        <h4>Unterstützt durch:</h4>
+        <div class="column column-offset-10 column-80" style="padding-top: 10rem;">
+          <h4>Unterstützt durch:</h4>
+        </div>
       </div>
         {% include sponsoren.html %}
       </div>
       <div class="row">
-        <div class="column column-navigation">
+        <div class="column column-offset-10 column-80 column-footer">
           <p>{% include footer.html %}</p>
         </div>
       </div>
