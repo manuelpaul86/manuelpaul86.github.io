@@ -1,4 +1,4 @@
-<div class="row row-center">
+<div class="row row-center" style="padding-left: 10%;">
 {% for item in site.data.sponsoren limit: 5 %}
   <div class="column column-10 column-offset-5 column-center">
     <a href="{{item.link}}" title="{{item.fullname}} {{item.betrag}}">
@@ -6,7 +6,7 @@
   </div>
 {% endfor %}
 </div>
-<div class="row row-center">
+<div class="row row-center" style="padding-left: 10%;">
 {% for item in site.data.sponsoren offset: 5 limit: 5 %}
   <div class="column column-10 column-offset-5 column-center">
     <a href="{{item.link}}" title="{{item.fullname}} {{item.betrag}}">
@@ -14,7 +14,7 @@
   </div>
 {% endfor %}
 </div>
-<div class="row row-center">
+<div class="row row-center" style="padding-left: 10%;">
 {% for item in site.data.sponsoren offset:10 limit: 5 %}
   <div class="column column-10 column-offset-5 column-center">
     <a href="{{item.link}}" title="{{item.fullname}} {{item.betrag}}">

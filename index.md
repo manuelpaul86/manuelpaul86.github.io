@@ -5,14 +5,16 @@ title: Barmbeker Nephrologen Gespräche
 ## Sehr geehrte Damen und Herren,
 
 <img src="/assets/images/CA_Meyer.jpg" height="200rem" style="float:right; margin-left:20px; margin-bottom:20px;">
-trotz der vielen Restriktionen des Corona-Jahres 2020 erfreuen sich die Barmbeker Nephrologen-Gespräche großer Beliebtheit. Auch mit dem Online-Format konnten alle geplanten Vorträge schließlich realisiert werden. 2021 werden wir diese Veranstaltung daher in dem bewährten Konzept fortführen und den Teilnehmerkreis ausweiten.
+Wir feiern 25 Jahre und 150 Barmbeker Nephrologen Gespräche.  
 
-Wir planen für 2021 zunächst fünf online Veranstaltungen und im Verlauf des Jahres ggf. Hybridfortbildungen mit Liveübertragung. Das Programm ist fertig und hochkarätig besetzt. Natürlich würden wir uns sehr freuen, Sie regelmäßig online oder persönlich zu sehen.
+Im ersten BNG 2021 am 23. Januar 2021 ab 16:00 Uhr geht es traditionell um die Nierentransplantation.  
 
-Bitte merken Sie sich für den als kommenden Termin den 21.01.2021 vor. Dann werden wir uns im 150. Barmbeker Nephrologen Gespräch traditionell zum Jahresbeginn mit dem Thema Transplantation beschäftigen. Herr Prof. Reuter aus Münster wird uns zum Thema der langwirksamen Immunsuppression berichten und Herr Prof. Kunzendorf aus Kiel bringt uns mit einem Transplantations - Update auf den neuesten Stand der Wissenschaft.
+Zunächst gibt Prof. Dr. med. Ulrich Kunzendorf von der UKSH Kiel einen Überblick zu den Neuigkeiten in der Transplantationsmedizin. Seine Transplantations-Updates in Barmbek sind legendär und streifen alle praktischen Aspekte rund um Vorbereitung, Durchführung und Nachbereitung der Nierentransplantation. Auch und gerade in Corona-Zeiten gibt es dazu viel Neues zu berichten.  
 
-Auch die kommenden Termine sind hochkarätig besetzt und wir freuen uns, Sie online oder auch bald wieder hier in Barmbek persönlich zu sehen.
+Den zweiten Vortrag hält Prof. Dr. med. Stefan Reuter aus der UK Münster. Er beschäftigt sich schon lange mit langwirksamer Immunsuppression nach Nierentransplantation, insbesondere mit Tacrolimus-Präparaten, die die Medikamenten-Compliance deutlich erhöhen. Ein relativ neues Feld ist dabei die unterschiedliche Metabolisierungsrate von Tacrolimus. Schnell-Metabolisierer haben dadurch zu wenig Immunsuppression, Langsam-Metabolisierer zuviel, mit entsprechender Nephrotoxizität. Wie sollte man also 2021 mit diesen Medikamenten umgehen?  
 
+Wir würden uns wie immer sehr freuen, diese Themen bei dieser 150. Veranstaltung mit Ihnen diskutieren zu dürfen.  
+  
 Mit herzlichen Grüßen Ihr  
 
 ![Unterschrift Prof. Meyer](/assets/images/unterschrift-meyer.png)  
