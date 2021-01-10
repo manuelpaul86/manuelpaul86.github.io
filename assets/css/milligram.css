@@ -493,7 +493,8 @@ input[type='radio'] {
 }
 
 a {
-  color: #007a24;
+  color: #000000;
+  font-weight: bold;
   text-decoration: none;
 }
 
