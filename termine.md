@@ -4,14 +4,16 @@ title: Termine
 ---
 ## Termine in 2021
 
-Für 2021 haben wir Ihnen ein abwechslungsreiches und interessantes Programm mit hochkarätigen Referenten zusammenstellen können. Sie sehen nachfolgend den Fortbildungsplan für 2021. Nähere Informationen zu den Inhalten und den Referenten stellen wir Ihnen hier auf dieser Seite rechtzeitig vor den jeweiligen Terminen zur Verfügung.
+Für 2021 haben wir Ihnen ein abwechslungsreiches und interessantes Programm mit hochkarätigen Referenten zusammenstellen können. Sie sehen nachfolgend den Fortbildungsplan für 2021. Nähere Informationen zu den Inhalten und den Referenten stellen wir Ihnen hier auf dieser Seite rechtzeitig vor den jeweiligen Terminen zur Verfügung.  
+
+[Mit einem Klick hier können Sie alle Termine der BNG 2021 in Ihren Kalender laden.](/assets/other/BNG_2021.ics) Dies sollte mit den gängigen Kalenderprogrammen (Outlook, Apple Kalender, Google Kalender, Thunderbird, ...) funktionieren. Sie werden jeweils eine halbe Stunde vor dem Termin informiert.
 
 #### 150. BNG am 21.01.2021  
 Langwirksame Immunsuppression - Prof. Dr. med. Stefan Reuter, UK Münster  
 Transplantations-Update - Prof. Dr. med. Ulrich Kunzendorf, UK Kiel	 
 
 #### 151. BNG am 18.02.2021  
-  
+
 Renale Anämie - Prof. Dr. med. Kai-Uwe Eckardt, Charite Berlin  
 Morbus Fabry - Prof. Dr. med. Eva Brandt, UK Münster   
 
@@ -32,7 +34,7 @@ Sekundärer Hyperparathyreoidismus - Prof. Markus Ketteler, Stuttgart
 Gichtnephropathie - Dr. med. Hendrik Dannemeyer, Hamburg  
 
 #### 156. BNG am 19.08.2021  
-  
+
 Aldosteronantagonisten - Prof. Dr. med. Hermann Haller, MHH, Hannover    
 SGLT2 Hemmer und GLP-1 Agonisten - Hon. Prof. Dr. med. Tobias Meyer, Hamburg  	
 
