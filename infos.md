@@ -9,8 +9,8 @@ Die Barmbeker Nephrologen Gespräche finden zur Zeit Online statt.
 
 Auch Versionen für Mobilgeräte sind verfügbar:  
 
-[Hier finden Sie die Version für iPad und iPhone](https://apps.apple.com/de/app/microsoft-teams/id1113153706)  
-[Hier finden Sie die Version für Android](https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=de&gl=US)  
+[Hier finden Sie die Version für iPad und iPhone.](https://apps.apple.com/de/app/microsoft-teams/id1113153706)  
+[Hier finden Sie die Version für Android.](https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=de&gl=US)  
 
 #### Bitte denken Sie daran, mit ausgeschalteter Kamera und stummgeschaltetem Mikrofon teilzunehmen. Dies können Sie in Teams direkt vor der Teilnahme komfortabel ausschalten.
 
