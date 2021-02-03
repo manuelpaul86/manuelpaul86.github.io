@@ -5,7 +5,7 @@ title: Barmbeker Nephrologen Gespräche
 ## Liebe Kolleginnen und Kollegen,
 
 <img src="/assets/images/CA_Meyer.jpg" height="200rem" style="float:right; margin-left:20px; margin-bottom:20px;">
-Wir feiern 25 Jahre und 150 Barmbeker Nephrologen Gespräche.  
+Wir feiern 25 Jahre und 151 Barmbeker Nephrologen Gespräche.  
 
 Im zweiten BNG 2021 am 18. Februar 2021 ab 16:00 Uhr geht es um die Renale Anämie und den Morbus Fabry.  
 

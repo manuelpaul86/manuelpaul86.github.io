@@ -1,7 +1,7 @@
 - name: Startseite
   link: /
-- name: Referenten
-  link: /referenten.html
+#- name: Referenten
+#  link: /referenten.html
 - name: Infos
   link: /infos.html
 - name: Termine
