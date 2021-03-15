@@ -4,8 +4,7 @@ title: Barmbeker Nephrologen Gespräche
 ---
 ## Liebe Kolleginnen und Kollegen,
 
-<img src="/assets/images/CA_Meyer.jpg" height="200rem" style="float:right; margin-left:20px; margin-bottom:20px;">  
-Im dritten BNG des Jahres, am 18. März 2021 ab 16:00 Uhr, geht es um die Peritonealdialyse. Diese Dialyseform befindet sich, zumindest in Hamburg, in einem starken Aufwärtstrend. Und es ist wie immer bei diesem Thema. Wenn man nur genug Begeisterte zusammen bringt und die Lernkurve in jeder Praxis einmal durchläuft, dann kann Peritonealdialyse selbstverständlich werden und vielen Patienten helfen.  
+<img src="/assets/images/CA_Meyer.jpg" height="200rem" style="float:right; margin-left:20px; margin-bottom:20px;">Im dritten BNG des Jahres, am 18. März 2021 ab 16:00 Uhr, geht es um die Peritonealdialyse. Diese Dialyseform befindet sich, zumindest in Hamburg, in einem starken Aufwärtstrend. Und es ist wie immer bei diesem Thema. Wenn man nur genug Begeisterte zusammen bringt und die Lernkurve in jeder Praxis einmal durchläuft, dann kann Peritonealdialyse selbstverständlich werden und vielen Patienten helfen.  
 
 Den ersten Vortrag hält Dr. med. Stephan Segerer aus der Nephrologie der Asklepios Klinik Hamburg-Barmbek. Er leitet das PD-Programm und hat maßgeblich zu dem massiven Anstieg der Peritonealdialysepatientenzahl in Hamburg beigetragen. Sein Vortrag soll vor allem die praktischen Aspekte der stationären PD-Versorgung umfassen. Die demographische Entwicklung unseres Patientenkollektives und auch der vermehrte Einsatz der PD für multimorbide, geriatrische Patienten, die von diesem Verfahren vielfältig profitieren können, verändert das Spektrum der Herausforderungen für einen modernen PD-Versorger. Anhand von 5 Fallbeispielen aus dem letzten Jahr wird er aufzeigen, welche Antworten das PD-Zentrum Barmbek hierauf findet.  
 
