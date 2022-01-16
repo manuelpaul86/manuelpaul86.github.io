@@ -22,3 +22,11 @@
   </div>
 {% endfor %}
 </div>
+<div class="row row-center" style="padding-left: 10%;">
+  {% for item in site.data.sponsoren offset:15 limit: 5 %}
+    <div class="column column-10 column-offset-5 column-center">
+      <a href="{{item.link}}" title="{{item.fullname}} {{item.betrag}}">
+      <img src="{{item.logo}}" alt="{{item.name}} {{item.betrag}}"/>
+    </div>
+  {% endfor %}
+  </div>
