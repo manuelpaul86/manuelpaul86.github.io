@@ -24,7 +24,7 @@ Bayer AG 2.500,– €
 
 B. Braun Melsungen AG 2.500,– €  
 
-Boehringer Ingelheim Pharma GmbH & Co. KG 2.500,– €
+Boehringer Ingelheim Pharma GmbH & Co. KG (Sponsoring in Allianz mit Lilly) 2.500,– €
 
 Chiesi GmbH 2.500,– €  
 
