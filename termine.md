@@ -14,8 +14,8 @@ Metabolisierung von Tacrolimus - Priv.-Doz. Dr. Gerold Thölking, UK Münster
 
 #### 161. BNG am 24.02.2022  
 
-Folgt  
-Folgt   
+Unterarm - Shuntchirurgie - Dr. med. Robert Shahverdyan, AK Barmbek  
+Oberarm - Shuntchirurgie - Dr. med. Vladimir Matoussevitch, UK Köln   
 
 #### 162. BNG am 24.03.2022  
 Folgt   
