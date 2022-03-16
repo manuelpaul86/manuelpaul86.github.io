@@ -18,8 +18,8 @@ Metabolisierung von Tacrolimus - Priv.-Doz. Dr. Gerold Thölking, UK Münster
 Moderne Oberarm - Shuntchirurgie - Dr. med. Vladimir Matoussevitch, UK Köln   
 
 #### 162. BNG am 24.03.2022  
-Folgt   
-Folgt  	
+Nieren-Kontrastmittelsonographie - PD Dr. med. Konrad Stock, TU München   
+Modernen Nierentransplantation aus chirurgischer Sicht - Dr. Jan Henrik Beckmann, UK Kiel 	
 
 #### 163. BNG am 14.04.2022  
 Folgt  
