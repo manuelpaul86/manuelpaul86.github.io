@@ -22,8 +22,8 @@ Nieren-Kontrastmittelsonographie - PD Dr. med. Konrad Stock, TU München
 Modernen Nierentransplantation aus chirurgischer Sicht - Dr. Jan Henrik Beckmann, UK Kiel 	
 
 #### 163. BNG am 14.04.2022  
-Folgt  
-Folgt  
+Einsparpotentiale an der Dialyse - Dr. med. Martin Pachmann, Fresenius  
+Dialyse der Zukunft - Prof. Dr. med. Steffen Mitzner, UK Rostock  
 
 #### 164. BNG am 12.05.2022  
 Folgt  
