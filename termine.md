@@ -26,8 +26,8 @@ Einsparpotentiale an der Dialyse - Dr. med. Martin Pachmann, Fresenius
 Dialyse der Zukunft - Prof. Dr. med. Steffen Mitzner, UK Rostock  
 
 #### 164. BNG am 12.05.2022  
-Folgt  
-Folgt    
+Eisentherapie - Prof. Dr. med. Jan Galle, Klinikum Lüdenscheid     
+HIF-Stabilisatoren - Prof. Dr. med. Timm Westhoff, Marien Hospital Herne       
 
 #### 165. BNG am 16.06.2022  
 Folgt  	  
