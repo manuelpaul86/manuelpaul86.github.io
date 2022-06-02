@@ -30,8 +30,8 @@ Eisentherapie - Prof. Dr. med. Jan Galle, Klinikum Lüdenscheid
 HIF-Stabilisatoren - Prof. Dr. med. Timm Westhoff, Marien Hospital Herne       
 
 #### 165. BNG am 16.06.2022  
-Folgt  	  
-Folgt  
+Primäre Hyperoxalurie - Prof. Dr. med. Jun Oh, UKE Hamburg  	  
+Interstitielle Nephritis - Prof. Dr. med. Oliver Steinmetz, UKE Hamburg  
 
 #### 166. BNG am 25.08.2022  
 Folgt    
