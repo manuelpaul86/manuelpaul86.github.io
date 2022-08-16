@@ -4,13 +4,14 @@ title: Infos
 ---
 ## Weitere Informationen zur Teilnahme
    
-#### Die Veranstaltungen werden als Hybridveranstaltungen geplant. Leider dürfen wir auch in 2022 aufgrund der Hamburger Corona-Verordnung noch keine größeren Veranstaltungen in der Klinik in Barmbek durchführen. Bitte achten Sie auf die individuellen Einladungen.   
-   
-Die Barmbeker Nephrologen Gespräche finden zur Zeit Online statt.   
+Die kommenden Veranstaltungen, also ab der 166. Veranstaltung am 25.08.2022, werden als Hybridveranstaltungen geplant. Wir laden also alle KollegInnen aus Hamburg und dem Umland ein, uns in der Asklepios Klinik Barmbek besuchen zu kommen. Die Veranstaltung findet statt in den Seminarräumen im Erdgeschoss. Sie biegen direkt nach dem Haupteingang nach rechts ab und finden uns dann ausgeschildert.   
+[Hier finden Sie einen link zu Google Maps, den sie zur Anreiseplanung nutzen können.](https://goo.gl/maps/FASj8h5Pn9MQNBex5)   
+Sie können im Parkhaus parken und sich den Parkschein an der Rezeption nach Besuch der Fortbildung entwerten lassen. Hierzu genügt der Hinweis auf Ihre Fortbildungsteilnahme.   
+
+Alle die uns nicht besuchen kommen können oder möchten, können an den Barmbeker Nephrologen Gesprächen weiterhin Online teilnehmen.   
 [Wir benutzen hierzu Microsoft Teams, welches sie hier kostenlos herunterladen können.](https://www.microsoft.com/de-de/microsoft-365/microsoft-teams/download-app)
 
 Auch Versionen für Mobilgeräte sind verfügbar:  
-
 [Hier finden Sie die Version für iPad und iPhone.](https://apps.apple.com/de/app/microsoft-teams/id1113153706)  
 [Hier finden Sie die Version für Android.](https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=de&gl=US)  
    
