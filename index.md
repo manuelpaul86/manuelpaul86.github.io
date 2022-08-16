@@ -4,7 +4,7 @@ title: Barmbeker Nephrologen Gespräche
 ---
 ## Liebe Kolleginnen und Kollegen,   
 
-<img src="/assets/images/CA_Meyer.jpg" height="200rem" style="float:right; margin-left:20px; margin-bottom:20px;">Das siebte Barmbeker Nephrologen Gespräch 2022 findet online und vor Ort bei uns in Barmbek, am Donnerstag, den 25. August 2022, ab 16:00 Uhr statt.    
+<img src="/assets/images/CA_Meyer.jpg" height="200rem" alt="Portraitfoto Hon. Prof. Dr. Tobias N. Meyer" style="float:right; margin-left:20px; margin-bottom:20px;">Das siebte Barmbeker Nephrologen Gespräch 2022 findet online und vor Ort bei uns in Barmbek, am Donnerstag, den 25. August 2022, ab 16:00 Uhr statt.    
 
 Themen sind der Einsatz der SGLT2 Hemmstoffe in der Nephrologie und die Begeisterung der Kardiologen für die Fab Four!         
 
