@@ -14,7 +14,7 @@ Den zweiten Vortrag hält Prof. Dr. med. Ingo Eitel, Direktor der Medizinische K
 
 Wir würden uns wie immer sehr freuen, diese Themen bei dieser 166. Veranstaltung mit Ihnen diskutieren zu dürfen.         
 
-<a class="button" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2E0ZGI0NmEtOGVlNS00ZTFkLTk0YzEtNTkwMWE0YmFhMjIy%40thread.v2/0?context=%7b%22Tid%22%3a%22e6160a47-a12e-4ab1-be56-bddd09456693%22%2c%22Oid%22%3a%2254de3200-43af-4cbb-8fde-9d0457be7bcb%22%7d" target="_blank">Hier geht es zur Fortbildung</a>  
+<a class="button" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2E0ZGI0NmEtOGVlNS00ZTFkLTk0YzEtNTkwMWE0YmFhMjIy%40thread.v2/0?context=%7b%22Tid%22%3a%22e6160a47-a12e-4ab1-be56-bddd09456693%22%2c%22Oid%22%3a%2254de3200-43af-4cbb-8fde-9d0457be7bcb%22%7d" target="_blank">Hier geht es zur Fortbildung!</a>  
 
 Mit herzlichen Grüßen Ihr  
 
