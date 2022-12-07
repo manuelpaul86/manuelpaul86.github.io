@@ -46,5 +46,5 @@ Folgt
 Folgt  
 
 #### 169. BNG am 15.12.2022  
-Folgt  
-Folgt  
+Akuttherapie bei aHUS und TTP - Prof. Dr. Jan Menne, KH Siloah Hannover   
+Akut - Therapie der RPGN - Prof. Dr. Julia Weinmann-Menke, UK Mainz   
