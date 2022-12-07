@@ -42,8 +42,8 @@ Folgt
 Folgt  
 
 #### 168. BNG am 17.11.2022  
-Folgt  
-Folgt  
+Die neuen Kaliumsenker - Dr. med. Thomas Weinreich, Villingen-Schwenningen   
+Cholesterinsenkung durch Nephrologen - Prof. Dr. Markus Merkel, Endokrinologikum Hamburg    
 
 #### 169. BNG am 15.12.2022  
 Akuttherapie bei aHUS und TTP - Prof. Dr. Jan Menne, KH Siloah Hannover   
