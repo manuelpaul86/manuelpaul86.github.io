@@ -8,7 +8,7 @@ Für 2023 haben wir Ihnen ein abwechslungsreiches und interessantes Programm mit
    
    
 #### 170. BNG am 26.01.2023   
-Organ.Versagen - ein deutscher Alleingang - Prof. Dr. Bernhard Banas, UK Regensburg
+Organ.Versagen - ein deutscher Alleingang - Prof. Dr. Bernhard Banas, UK Regensburg   
 Die Möglichkeiten einzelner Transplantationszentren - PD Dr. Florian Grahammer, UKE Hamburg	 
 
 #### 171. BNG am 23.02.2023     
