@@ -8,43 +8,33 @@ Für 2022 haben wir Ihnen ein abwechslungsreiches und interessantes Programm mit
 
 [Mit einem Klick hier können Sie alle Termine der BNG 2022 in Ihren Kalender laden.](/assets/other/BNG_2022.ics) Dies sollte mit den gängigen Kalenderprogrammen (Outlook, Apple Kalender, Google Kalender, Thunderbird, ...) funktionieren. Sie werden jeweils eine halbe Stunde vor dem Termin informiert.
 
-#### 160. BNG am 20.01.2021  
-Xeno-Transplantation - Prof. Dr. med. Andreas Linkermann, UK Dresden  
-Metabolisierung von Tacrolimus - Priv.-Doz. Dr. Gerold Thölking, UK Münster	 
+#### 170. BNG am 26.01.2021  
+Organ.Versagen - ein deutscher Alleingang - Prof. Dr. Bernhard Banas, Leiter der Abteilung für Nephrologie und des Transplantationszentrums der Universitätsklinik in Regensburg     
+Die Möglichkeiten einzelner Transplantationszentren - Privatdozent Dr. Florian Grahammer, Stellvertretender Klinikdirektor der Klinik für Nephrologie am UKE und Direktor des Universitären Transplantations Centrum (UTC) in Hamburg   	 
 
-#### 161. BNG am 24.02.2022  
+#### 171. BNG am 23.02.2022  
+  
 
-Übersicht Unterarm - Shuntchirurgie - Dr. med. Robert Shahverdyan, AK Barmbek  
-Moderne Oberarm - Shuntchirurgie - Dr. med. Vladimir Matoussevitch, UK Köln   
+#### 172. BNG am 23.03.2022  
 
-#### 162. BNG am 24.03.2022  
-Nieren-Kontrastmittelsonographie - PD Dr. med. Konrad Stock, TU München   
-Modernen Nierentransplantation aus chirurgischer Sicht - Dr. Jan Henrik Beckmann, UK Kiel 	
 
-#### 163. BNG am 14.04.2022  
-Einsparpotentiale an der Dialyse - Dr. med. Martin Pachmann, Fresenius  
-Dialyse der Zukunft - Prof. Dr. med. Steffen Mitzner, UK Rostock  
+#### 173. BNG am 27.04.2022  
+ 
 
-#### 164. BNG am 12.05.2022  
-Eisentherapie - Prof. Dr. med. Jan Galle, Klinikum Lüdenscheid     
-HIF-Stabilisatoren - Prof. Dr. med. Timm Westhoff, Marien Hospital Herne       
+#### 174. BNG am 25.05.2022  
+     
 
-#### 165. BNG am 16.06.2022  
-Primäre Hyperoxalurie - Prof. Dr. med. Jun Oh, UKE Hamburg  	  
-Interstitielle Nephritis - Prof. Dr. med. Oliver Steinmetz, UKE Hamburg  
+#### 175. BNG am 22.06.2022  
+  
 
-#### 166. BNG am 25.08.2022  
-SGLT2 - Hemmstoffe und GLP1 - Agonisten - Hon. Prof. Dr. med. Tobias Meyer, AK Barmbek    
-Neue Standard-Medikamente zur Therapie der Herzinsuffizienz - Prof. Dr. med. Ingo Eitel, UHZ Lübeck  	
+#### 166. BNG am 31.08.2022  
+ 	
 
-#### 167. BNG am 22.09.2022  
-Folgt  
-Folgt  
+#### 167. BNG am 21.09.2022  
+ 
 
-#### 168. BNG am 17.11.2022  
-Die neuen Kaliumsenker - Dr. med. Thomas Weinreich, Villingen-Schwenningen   
-Cholesterinsenkung durch Nephrologen - Prof. Dr. Markus Merkel, Endokrinologikum Hamburg    
+#### 178. BNG am 09.11.2022  
 
-#### 169. BNG am 15.12.2022  
-Akuttherapie bei aHUS und TTP - Prof. Dr. Jan Menne, KH Siloah Hannover   
-Akut - Therapie der RPGN - Prof. Dr. Julia Weinmann-Menke, UK Mainz   
+
+#### 179. BNG am 07.12.2022  
+  
