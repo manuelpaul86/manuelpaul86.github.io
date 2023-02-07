@@ -13,7 +13,8 @@ Die Möglichkeiten einzelner Transplantationszentren - PD Dr. Florian Grahammer,
 
 #### 170. BNG am 23.02.2023     
    
-folgt   
+Salz und Bluthochdruck - Prof. Dr. Martin Hausberg, Städtisches Klinikum Karlsruhe    
+LAA - Kidney / Dialyse, Vorhofflimmern, LAA-Occluder - Prof. Dr. Ingo Eitel, UKSH Campus Lübeck   
    
 #### 171. BNG am 23.03.2023  
    
