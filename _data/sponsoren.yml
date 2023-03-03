@@ -12,7 +12,7 @@
   fullname: AstraZeneca GmbH
   logo: /assets/sponsoren/astrazeneca.png
   link: https://www.astrazeneca.de
-  betrag: 4.500€ angefragt
+  betrag: 4.500€
 - name: Bayer
   fullname: Bayer AG
   logo: /assets/sponsoren/bayer.svg
@@ -52,7 +52,7 @@
   fullname: GlaxoSmithKline GmbH & Co. KG
   logo: /assets/sponsoren/gsk.png
   link: https://de.gsk.com/de-de/
-  betrag: 4.500€ angefragt
+  betrag: 4.500€
 - name: Hexal
   fullname: Hexal AG
   logo: /assets/sponsoren/hexal.svg
@@ -67,7 +67,7 @@
   fullname: Otsuka Pharmaceutical Europe Ltd.
   logo: /assets/sponsoren/otsuka.png
   link: https://www.otsuka-europe.com/de/
-  betrag: 4.500€ angefragt
+  betrag: 4.500€
 - name: Sanofi-Aventis
   fullname: Sanofi-Aventis Deutschland GmbH
   logo: /assets/sponsoren/sanofi.png
