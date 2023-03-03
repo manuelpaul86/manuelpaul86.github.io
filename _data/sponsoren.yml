@@ -18,6 +18,11 @@
   logo: /assets/sponsoren/bayer.svg
   link: https://www.bayer.com/de/
   betrag: 4.500€
+- name: B.Braun Avitum
+  fullname: B. Braun Avitum AG
+  logo: /assets/sponsoren/bbraun-logo-full.svg
+  link: https://www.bbraun.de/
+  betrag: 4.500€
 - name: Boehringer Ingelheim
   fullname: Boehringer Ingelheim Pharma GmbH & Co. KG (Sponsoring in Allianz mit Lilly)
   logo: /assets/sponsoren/boehringer-lilly.png
@@ -32,6 +37,11 @@
   fullname: CSL Vifor Pharma Deutschland GmbH
   logo: /assets/sponsoren/cslvifor.svg
   link: https://www.viforpharma.com/de
+  betrag: 4.500€
+  name: Daiichi - Sankyo
+  fullname: Daiichi Sankyo Deutschland GmbH
+  logo: /assets/sponsoren/daiich_logo_cut_en.png
+  link: https://www.daiichi-sankyo.de
   betrag: 4.500€
 - name: Fresenius Medical Care
   fullname: Fresenius Medical Care AG & Co. KGaA
