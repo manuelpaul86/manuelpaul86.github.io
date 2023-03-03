@@ -15,15 +15,21 @@ Alexion Pharma Germany GmbH 4.500,– €
 
 Astellas Pharma GmbH 4.500,- €
    
-AstraZeneca GmbH 4.500,– € angefragt   
+AstraZeneca GmbH 4.500,– €   
 
 Bayer AG 4.500,– €  
-
+   
+B. Braun Avitum 4.500,- €   
+   
 Boehringer Ingelheim Pharma GmbH & Co. KG (Sponsoring in Allianz mit Lilly) 4.500,– €
 
 Chiesi GmbH 4.500,– €  
 
-Fresenius Medical Care AG & Co. KGaA 4.500,– €
+CSL Vifor Pharma Deutschland GmbH 4.500,– €   
+
+Daiichi Sankyo Deutschland GmbH 4.500,- €   
+
+Fresenius Medical Care AG & Co. KGaA 4.500,– €   
 
 GlaxoSmithKline GmbH & Co. KG 4.500,– €  
 
@@ -31,11 +37,13 @@ Hexal AG 4.500,– €
 
 Novartis Pharma GmbH 4.500,– €  
 
-Otsuka Pharmaceutical Europe Ltd. 4.500,– € angefragt
+Otsuka Pharmaceutical Europe Ltd. 4.500,– €   
 
 Sanofi-Aventis Deutschland GmbH 4.500,– €  
 
+Stadapharm GmbH 4.500,- €   
+
 Tauro-Implant GmbH 4.500,– €  
 
-Vifor Pharma Deutschland GmbH 4.500,– €
+
    
