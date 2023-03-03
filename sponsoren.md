@@ -2,7 +2,7 @@
 layout: default
 title: Sponsoren
 ---
-## Die Barmbeker Nephrologen Gespräche
+## Die Barmbeker Nephrologen Gespräche 2023
 
 sind nur möglich dank der Unterstützung unser Sponsoren. Auch während der reinen Online - Veranstaltungen zur Zeit der Covid - Kontaktbeschränkungen hielten unsere Förderer an ihrer Unterstützung fest. Art und Höhe des Sponsorings möchten wir Ihnen hier offenlegen.
    
