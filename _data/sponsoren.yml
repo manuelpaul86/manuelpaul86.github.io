@@ -33,12 +33,12 @@
   logo: /assets/sponsoren/chiesi.png
   link: https://www.chiesi.de
   betrag: 4.500€
-  name: CSL Vifor
+- name: CSL Vifor
   fullname: CSL Vifor Pharma Deutschland GmbH
   logo: /assets/sponsoren/cslvifor.svg
   link: https://www.viforpharma.com/de
   betrag: 4.500€
-  name: Daiichi - Sankyo
+- name: Daiichi - Sankyo
   fullname: Daiichi Sankyo Deutschland GmbH
   logo: /assets/sponsoren/daiich_logo_cut_en.png
   link: https://www.daiichi-sankyo.de
@@ -73,7 +73,7 @@
   logo: /assets/sponsoren/sanofi.png
   link: https://www.sanofi.de
   betrag: 4.500€
-  name: Stadapharm
+- name: Stadapharm
   fullname: Stadapharm GmbH
   logo: /assets/sponsoren/stadapharm.png
   link: https://www.stada.de
