@@ -18,11 +18,13 @@ LAA - Kidney / Dialyse, Vorhofflimmern, LAA-Occluder - Prof. Dr. Ingo Eitel, UKS
    
 #### 171. BNG am 23.03.2023  
    
-folgt   
+Das Darmmikrobiom und die Progression der CKD - Dr. Susanne Fleig, UK Aachen   
+Juckreiz an Dialyse - Univ.-Prof. Dr. med. Marcus Brand, UK Münster   
    
 #### 172. BNG am 27.04.2023  
    
-folgt   
+Sicherheitsaspekte bei der Hämodialyse - Prof. Dr. Joachim Beige, KfH-Nierenzentrum am Klinikum St. Georg   
+Neue Dialysefilter - Prof. Dr. med. Jens Lutz, Klinikum Bremen - Mitte   
    
 #### 173. BNG am 25.05.2023  
    
