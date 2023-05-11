@@ -18,11 +18,11 @@
   logo: /assets/sponsoren/bayer.svg
   link: https://www.bayer.com/de/
   betrag: 4.500€
-- name: B.Braun Avitum
-  fullname: B. Braun Avitum AG
-  logo: /assets/sponsoren/bbraun-logo-full.svg
-  link: https://www.bbraun.de/
-  betrag: 4.500€
+#- name: B.Braun Avitum
+#  fullname: B. Braun Avitum AG
+#  logo: /assets/sponsoren/bbraun-logo-full.svg
+#  link: https://www.bbraun.de/
+#  betrag: 4.500€
 - name: Boehringer Ingelheim
   fullname: Boehringer Ingelheim Pharma GmbH & Co. KG (Sponsoring in Allianz mit Lilly)
   logo: /assets/sponsoren/boehringer-lilly.png

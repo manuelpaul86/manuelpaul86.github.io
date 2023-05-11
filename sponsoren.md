@@ -19,8 +19,6 @@ AstraZeneca GmbH 4.500,– €
 
 Bayer AG 4.500,– €  
    
-B. Braun Avitum AG 4.500,- €   
-   
 Boehringer Ingelheim Pharma GmbH & Co. KG (Sponsoring in Allianz mit Lilly) 4.500,– €
 
 Chiesi GmbH 4.500,– €  
