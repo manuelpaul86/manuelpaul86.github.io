@@ -4,7 +4,7 @@ title: Barmbeker Nephrologen Gespräche
 ---
 ## Liebe Kolleginnen und Kollegen,   
 
-<img src="/assets/images/CA_Meyer.jpg" height="200rem" alt="Portraitfoto Hon. Prof. Dr. Tobias N. Meyer" style="float:right; margin-left:20px; margin-bottom:20px;">Das fünfte Barmbeker Nephrologen Gespräch des Jahres 2023 findet live in Hamburg-Barmbek oder online über Teams am Donnerstag, den 25. Mai 2023 ab 16:00 Uhr statt. Sie sind herzlich nach Barmbek eingeladen oder in die Hybrid-Übertragung.      
+<img src="/assets/images/CA_Meyer.jpg" height="200rem" alt="Portraitfoto Hon. Prof. Dr. Tobias N. Meyer" style="float:right; margin-left:20px; margin-bottom:20px;">Das sechste Barmbeker Nephrologen Gespräch des Jahres 2023 findet live in Hamburg-Barmbek oder online über Teams am Donnerstag, den 22. Juni 2023 ab 16:00 Uhr statt. Sie sind herzlich nach Barmbek eingeladen oder in die Hybrid-Übertragung.      
 
 Es geht um den Knochenstoffwechsel von Dialysepatienten.   
    
