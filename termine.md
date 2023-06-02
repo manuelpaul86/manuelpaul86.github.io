@@ -32,7 +32,8 @@ folgt
    
 #### 174. BNG am 22.06.2023  
    
-folgt   
+Schwierige Peritonealdialysezugänge - Dr. med. Stephan Segerer, AK Barmek   
+Hernien- und Peritonealdialysekatheteroperationen - Dr. med. Michael Lipp, Dr. med. Maximiliun Jusufi, AK Barmbek
    
 #### 175. BNG am 31.08.2023  
    
