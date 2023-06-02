@@ -28,12 +28,13 @@ Neue Dialysefilter - Prof. Dr. med. Jens Lutz, Klinikum Bremen - Mitte
    
 #### 173. BNG am 25.05.2023  
    
-folgt   
+Sekundärer Hyperparathyreoidismus - Prof. Dr. Matthias Girndt, UK Halle (Saale)   
+Adynamer Knochen - Prof. Dr. med. Peter M. Jehle, Ev. Krankenhaus Paul Gerhardt Stift, Wittenberg   
    
 #### 174. BNG am 22.06.2023  
    
 Schwierige Peritonealdialysezugänge - Dr. med. Stephan Segerer, AK Barmek   
-Hernien- und Peritonealdialysekatheteroperationen - Dr. med. Michael Lipp, Dr. med. Maximiliun Jusufi, AK Barmbek
+Hernien- und Peritonealdialysekatheteroperationen - Dr. med. Michael Lipp, Dr. med. Maximiliun Jusufi, AK Barmbek   
    
 #### 175. BNG am 31.08.2023  
    
