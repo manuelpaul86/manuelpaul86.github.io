@@ -38,7 +38,9 @@ Hernien- und Peritonealdialysekatheteroperationen - Dr. med. Michael Lipp, Dr. m
    
 #### 175. BNG am 31.08.2023  
    
-folgt   
+##### Glomerulonephritis
+IgA - Nephropathie - Prof. Dr. Jürgen Floege, UK Aachen   
+Membranöse GN - PD Dr. Elion Hoxha, UK Eppendorf     
    
 #### 176. BNG am 21.09.2023  
    
