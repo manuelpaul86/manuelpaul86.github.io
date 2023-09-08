@@ -42,8 +42,10 @@ folgt
    
 #### 176. BNG am 21.09.2023  
    
-folgt   
-   
+Diabetische Nephropathie   
+Die Fantastischen Vier der diabetischen Nephropathie - Hon. Prof. Dr. Tobias Meyer, AK Barmbekt   
+Rolle der nicht steroidalen Mineralokortikoidrezeptorantagonisten -  Prof. Dr. Kai Schmitt-Ott, Klinik für Nieren- und Hochdruckerkrankungen, MHH   
+
 #### 177. BNG am 09.11.2023  
    
 folgt   
