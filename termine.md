@@ -42,7 +42,7 @@ Hernien- und Peritonealdialysekatheteroperationen - Dr. med. Michael Lipp, Dr. m
 IgA - Nephropathie - Prof. Dr. Jürgen Floege, UK Aachen   
 Membranöse GN - PD Dr. Elion Hoxha, UK Eppendorf     
    
-#### 176. BNG am 21.09.2023  
+#### 176. BNG am 19.09.2023  
    
 ##### Diabetische Nephropathie   
 Die Fantastischen Vier der diabetischen Nephropathie - Hon. Prof. Dr. Tobias Meyer, AK Barmbek   
