@@ -50,7 +50,8 @@ Rolle der nicht steroidalen Mineralokortikoidrezeptorantagonisten -  Prof. Dr. K
 
 #### 177. BNG am 09.11.2023  
    
-folgt   
+LDL-Senkung bei nierenkranken Patienten - Prof. Dr. Danilo Fliser, UK Saarland   
+HIF-Stabilisatoren bei nierenkranken Patienten - Prof. Dr. Thorsten Feldkamp, Nephrologisches Zentrum Rendsburg-Eckernförde   
    
 #### 178. BNG am 07.12.2023  
      
