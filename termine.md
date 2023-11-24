@@ -55,5 +55,7 @@ HIF-Stabilisatoren bei nierenkranken Patienten - Prof. Dr. Thorsten Feldkamp, Ne
    
 #### 178. BNG am 07.12.2023  
      
-folgt   
+##### Therapie der Lupusnephritis und um moderne Komplementinhibitoren   
    
+Neue Optionen zur Lupusnephritis-Therapie - Prof. Dr. Jörg Latus, RBK Stuttgart   
+Neue Therapieoptionen für Komplementaktivierung bei Nierenerkrankungen - Prof. Dr. Jan Menne, KRH Klinikum Siloah   
