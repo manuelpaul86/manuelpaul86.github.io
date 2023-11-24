@@ -4,15 +4,15 @@ title: Barmbeker Nephrologen Gespräche
 ---
 ## Liebe Kolleginnen und Kollegen,   
 
-<img src="/assets/images/CA_Meyer.jpg" height="200rem" alt="Portraitfoto Hon. Prof. Dr. Tobias N. Meyer" style="float:right; margin-left:20px; margin-bottom:20px;">Das neunte Barmbeker Nephrologie Gespräch des Jahres 2023 findet live in Hamburg-Barmbek oder online über Teams am Donnerstag, den 09. November 2023 ab 16:00 Uhr statt. Sie sind herzlich nach Barmbek eingeladen oder in die Hybrid-Übertragung.      
+<img src="/assets/images/CA_Meyer.jpg" height="200rem" alt="Portraitfoto Hon. Prof. Dr. Tobias N. Meyer" style="float:right; margin-left:20px; margin-bottom:20px;">Das letzte Barmbeker Nephrologie Gespräch des Jahres 2023 findet live in Hamburg-Barmbek oder online über Teams am Donnerstag, den 07. Dezember 2023 ab 16:00 Uhr statt. Sie sind herzlich nach Barmbek eingeladen oder in die Hybrid-Übertragung.      
 
-Es geht um die Lipidsenkung mit neuen Medikamenten und den Einsatz der HIF-Stabilisatoren.   
+Es geht um die Therapie der Lupusnephritis und um moderne Komplementinhibitoren.   
    
-Der erste Vortrag wird von Prof. Dr. Danilo Fliser gehalten, dem Direktor der Klinik für Innere Medizin IV – Nieren- und Hochdruckkrankheiten der Universitätsklinikum des Saarlandes in Homburg/Saar. Es geht um die neuen Optionen zur LDL-Senkung bei nierenkranken Patienten. Die Indikation und Aggressivität der LDL-Senkung wird seit 2019 über Risikofaktoren und Organbeteiligungen ermittelt. Bei Nierenkranken mit einer eGFR < 60 mL/min/1.73 cm2 ist das kardiovaskuläre Risiko hoch oder sehr hoch und das LDL-Ziel demnach < 70 mg/dL oder sogar < 55 mg/dL. Die aktuellen Möglichkeiten zum Erreichen dieser Ziele werden besprochen.         
+Der erste Vortrag wird von Prof. Dr. Jörg Latus gehalten, dem Ärztlichen Leiter der Allgemeinen Inneren Medizin und Nephrologie am Robert-Bosch-Krankenhaus in Stuttgart. Ihn habe ich zu einem Referat über die neuen Optionen zur Lupusnephritis-Therapie eingeladen. Wer sollte Voclosporin bekommen, wer Belimumab? Induktion und Erhaltung oder gleich eine dauerhafte Therapie? Die neuen EULAR Leitlinien sind raus und geben auch uns Nephrologen die Richtung vor.         
    
-Den zweiten Vortrag hält Prof. Dr. Thorsten Feldkamp aus dem Nephrologischen Zentrum Rendsburg-Eckernförde. Er spricht über den praktischen Einsatz von HIF-Stabilisatoren bei nierenkranken Patienten. Wen hält er für diese Therapie geeignet und wo liegen die Vorteile gegenüber der etablierten Therapie mit Erythropoetin? Wie wird die Dosis titriert und wie ist die Adhärenz? Wir freuen uns auf praktische Tipps.         
+Den zweiten Vortrag hält Prof. Dr. Jan Menne, Chefarzt Klinik für Nephrologie, Angiologie, Hypertensiologie & Rheumatologie am KRH Klinikum Mitte - Standort Siloah. Wir alle warten auf neue Therapieoptionen für die immer häufiger nachweisbare Komplementaktivierung bei unseren Nierenerkrankungen. Modere small molecules können in Phase 2 und 3 Studien eine Progression beeindruckend verlangsamen. Wir wünschen uns daher ein Übersicht und Meinung zu den zukünftigen Substanzen und Indikationen.         
    
-Wir würden uns wie immer sehr freuen, diese Themen bei dieser 177. Veranstaltung mit Ihnen diskutieren zu dürfen.         
+Wir würden uns wie immer sehr freuen, diese Themen bei dieser 178. Veranstaltung mit Ihnen diskutieren zu dürfen.         
 
 <a class="button" href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmUxOTUxMDQtOWQ3MC00MWNkLWJhZmQtODZkMGRiMmM0OGE3%40thread.v2/0?context=%7b%22Tid%22%3a%22e6160a47-a12e-4ab1-be56-bddd09456693%22%2c%22Oid%22%3a%2254de3200-43af-4cbb-8fde-9d0457be7bcb%22%7d" target="_blank">Hier geht es zur Fortbildung!</a>  
 
