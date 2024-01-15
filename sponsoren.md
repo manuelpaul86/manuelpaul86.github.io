@@ -13,7 +13,7 @@ Die Mitgliedsunternehmen der „Freiwilligen Selbstkontrolle für die Arzneimitt
  
 Alexion Pharma Germany GmbH 5.000,– €   
 
-Astellas Pharma GmbH 5.000,- €
+Astellas Pharma GmbH 5.000,– €
    
 AstraZeneca GmbH 5.000,– € angefragt   
 
@@ -37,7 +37,7 @@ Novartis Pharma GmbH 5.000,– €
 
 Sanofi-Aventis Deutschland GmbH 5.000,– €  
 
-Stadapharm GmbH 5.000,- €   
+Stadapharm GmbH 5.000,– €   
 
 Tauro-Implant GmbH 5.000,– €  
 
