@@ -8,7 +8,7 @@ Seit 2022 werden die Barmbeker Nephrologie Gespräche als Hybridveranstaltungen 
 [Hier finden Sie einen link zu Google Maps, den sie zur Anreiseplanung nutzen können.](https://goo.gl/maps/FASj8h5Pn9MQNBex5)   
 Sie können im Parkhaus parken und sich den Parkschein an der Rezeption nach Besuch der Fortbildung entwerten lassen. Hierzu genügt der Hinweis auf Ihre Fortbildungsteilnahme.   
 
-Alle die uns nicht besuchen kommen können oder möchten, können an den Barmbeker Nephrologen Gesprächen weiterhin Online teilnehmen.   
+Alle die uns nicht besuchen kommen können oder möchten, können an den Barmbeker Nephrologie Gesprächen weiterhin Online teilnehmen.   
 [Wir benutzen hierzu Microsoft Teams, welches sie hier kostenlos herunterladen können.](https://www.microsoft.com/de-de/microsoft-365/microsoft-teams/download-app)
 
 Auch Versionen für Mobilgeräte sind verfügbar:  
@@ -24,4 +24,4 @@ Auch die Teilnahme direkt in Ihrem Internetbrowser ist möglich, hierzu müssen 
 
 ## Wichtiger Hinweis zu den drei Fortbildungspunkten
 
-Die Barmbeker Nephrologen Gespräche sind mit drei Fortbildungspunkten bei der Ärztekammer Hamburg akkreditiert. Für die drei Fortbildungspunkte sind 2 Dinge wichtig: Nennen Sie bitte Ihren richtigen Namen vor dem Beitritt zu einem Barmbeker Nephrologen Gespräch in Microsoft Teams. Dadurch wissen wir, dass Sie anwesend waren. Außerdem schicken bitten alle neuen Zuhörer Ihre EFN per Email an Frau Manuela Leibfried im Sekretariat der Nephrologie <m.leibfried@asklepios.com>. Die Punkte werden dann durch die Asklepios Ärzteakademie der Ärztekammer auch außerhalb Hamburgs gemeldet. Wenn Sie Ihre EFN nicht angeben möchten oder aus Österreich oder der Schweiz teilnehmen, schicken Sie bitte eine Email an Frau Leibfried, damit wir Ihren Kontakt an die Ärzteakademie schicken können. Diese wird Ihnen dann eine Teilnahmebestätigung per Email zuschicken. Außerdem bekommen Sie dann, wenn Sie möchten, direkte Einladungen zu den zukünftigen Barmbeker Nephrologen Gesprächen.
+Die Barmbeker Nephrologie Gespräche sind mit drei Fortbildungspunkten bei der Ärztekammer Hamburg akkreditiert. Für die drei Fortbildungspunkte sind 2 Dinge wichtig: Nennen Sie bitte Ihren richtigen Namen vor dem Beitritt zu einem Barmbeker Nephrologen Gespräch in Microsoft Teams. Dadurch wissen wir, dass Sie anwesend waren. Außerdem schicken bitten alle neuen Zuhörer Ihre EFN per Email an Frau Manuela Leibfried im Sekretariat der Nephrologie <m.leibfried@asklepios.com>. Die Punkte werden dann durch die Asklepios Ärzteakademie der Ärztekammer auch außerhalb Hamburgs gemeldet. Wenn Sie Ihre EFN nicht angeben möchten oder aus Österreich oder der Schweiz teilnehmen, schicken Sie bitte eine Email an Frau Leibfried, damit wir Ihren Kontakt an die Ärzteakademie schicken können. Diese wird Ihnen dann eine Teilnahmebestätigung per Email zuschicken. Außerdem bekommen Sie dann, wenn Sie möchten, direkte Einladungen zu den zukünftigen Barmbeker Nephrologie Gesprächen.
