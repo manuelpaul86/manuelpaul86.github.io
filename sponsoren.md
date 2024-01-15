@@ -11,37 +11,35 @@ Unseren Sponsoren danken wir sehr. Sie ermöglichen diese Fortbildungen, ohne da
 Die Mitgliedsunternehmen der „Freiwilligen Selbstkontrolle für die Arzneimittelindustrie e.V.“ (FSA) haben zur Schaffung von mehr Transparenz den FSA-Kodex enger gefasst. Zukünftig sind Kongressveranstalter verpflichtet, potenzielle Teilnehmer von Kongressen bereits im Vorfeld der Veranstaltung über Umfang und Bedingungen der Unterstützung der Arzneimittelindustrie zu informieren:   
    
  
-Alexion Pharma Germany GmbH 4.500,– €   
+Alexion Pharma Germany GmbH 5.000,– €   
 
-Astellas Pharma GmbH 4.500,- €
+Astellas Pharma GmbH 5.000,- €
    
-AstraZeneca GmbH 4.500,– €   
+AstraZeneca GmbH 5.000,– € angefragt   
 
-Bayer AG 4.500,– €  
+Bayer AG 5.000,– €  
    
-Boehringer Ingelheim Pharma GmbH & Co. KG (Sponsoring in Allianz mit Lilly) 4.500,– €
+Boehringer Ingelheim Pharma GmbH & Co. KG 5.000,- €   
+   
+Lilly Deutschland GmbH 5.000,– €
 
-Chiesi GmbH 4.500,– €  
+Chiesi GmbH 5.000,– €  
 
-CSL Vifor Pharma Deutschland GmbH 4.500,– €   
+CSL Vifor Pharma Deutschland GmbH 5.000,– €    
 
-Daiichi Sankyo Deutschland GmbH 4.500,- €   
+Fresenius Medical Care AG & Co. KGaA 5.000,– €   
 
-Fresenius Medical Care AG & Co. KGaA 4.500,– €   
+GlaxoSmithKline GmbH & Co. KG 5.000,– €  
 
-GlaxoSmithKline GmbH & Co. KG 4.500,– €  
+Hexal AG 5.000,– €  
 
-Hexal AG 4.500,– €  
+Novartis Pharma GmbH 5.000,– €    
 
-Novartis Pharma GmbH 4.500,– €  
+Sanofi-Aventis Deutschland GmbH 5.000,– €  
 
-Otsuka Pharmaceutical Europe Ltd. 4.500,– €   
+Stadapharm GmbH 5.000,- €   
 
-Sanofi-Aventis Deutschland GmbH 4.500,– €  
-
-Stadapharm GmbH 4.500,- €   
-
-Tauro-Implant GmbH 4.500,– €  
+Tauro-Implant GmbH 5.000,– €  
 
 
    
