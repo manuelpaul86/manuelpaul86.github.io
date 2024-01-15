@@ -4,7 +4,7 @@ title: Infos
 ---
 ## Weitere Informationen zur Teilnahme
    
-Die kommenden Veranstaltungen, also ab der 166. Veranstaltung am 25.08.2022, werden als Hybridveranstaltungen geplant. Wir laden also alle KollegInnen aus Hamburg und dem Umland ein, uns in der Asklepios Klinik Barmbek besuchen zu kommen. Die Veranstaltung findet statt in den Seminarräumen im Erdgeschoss. Sie biegen direkt nach dem Haupteingang nach rechts ab und finden uns dann ausgeschildert.   
+Seit 2022 werden die Barmbeker Nephrologie Gespräche als Hybridveranstaltungen geplant. Wir laden also alle KollegInnen aus Hamburg und dem Umland ein, uns in der Asklepios Klinik Barmbek besuchen zu kommen. Die Veranstaltung findet statt in den Seminarräumen im Erdgeschoss. Sie biegen direkt nach dem Haupteingang nach rechts ab und finden uns dann ausgeschildert.   
 [Hier finden Sie einen link zu Google Maps, den sie zur Anreiseplanung nutzen können.](https://goo.gl/maps/FASj8h5Pn9MQNBex5)   
 Sie können im Parkhaus parken und sich den Parkschein an der Rezeption nach Besuch der Fortbildung entwerten lassen. Hierzu genügt der Hinweis auf Ihre Fortbildungsteilnahme.   
 

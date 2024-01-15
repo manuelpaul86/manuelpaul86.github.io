@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Barmbeker Nephrologen Gespräche
+title: Barmbeker Nephrologie Gespräche
 ---
 ## Liebe Kolleginnen und Kollegen,   
 
 <img src="/assets/images/CA_Meyer.jpg" height="200rem" alt="Portraitfoto Hon. Prof. Dr. Tobias N. Meyer" style="float:right; margin-left:20px; margin-bottom:20px;">
 Herzlich willkommen zu den Barmbeker Nephrologie Gesprächen 2024. Es sind wieder 10 hochklassige Nachmittage geplant, mit jeweils zwei Referenten.   
 
-Das erste Barmbeker Nephrologen Gespräch findet live in Hamburg-Barmbek oder online über Microsoft Teams am Donnerstag, den 25. Januar 2024 ab 16:00 Uhr statt. Sie sind herzlich nach Barmbek eingeladen oder in die Hybrid-Übertragung.      
+Das erste Barmbeker Nephrologie Gespräch findet live in Hamburg-Barmbek oder online über Microsoft Teams am Donnerstag, den 25. Januar 2024 ab 16:00 Uhr statt. Sie sind herzlich nach Barmbek eingeladen oder in die Hybrid-Übertragung.      
 
 Es geht um Transplantation.   
    
