@@ -9,7 +9,7 @@ Herzlich willkommen zu den Barmbeker Nephrologie Gesprächen 2024. Es sind wiede
 
 Das erste Barmbeker Nephrologie Gespräch findet live in Hamburg-Barmbek oder online über Microsoft Teams am Donnerstag, den 25. Januar 2024 ab 16:00 Uhr statt. Sie sind herzlich nach Barmbek eingeladen oder in die Hybrid-Übertragung.      
 
-Es geht um Transplantation.   
+**Es geht um Transplantation.**   
    
 Der erste Vortrag wird von Prof. Dr. med. vet. Eckhard Wolf gehalten, dem Leiter des Center for Innovative Medical Models der LMU München. Prof. Wolf ist ein international anerkannter Experte zur Xenotransplantation nicht nur der Nieren sondern auch anderer Organe, insbesondere aus dem Schwein. Er wird uns die Möglichkeiten, die Komplikationen und die Zukunft dieser Methode aufzeigen. Insbesondere die erfolgreiche Xenotransplantation von Nieren würde die praktische Nephrologie grundlegend verändern. Es macht also für uns alle Sinn, diese Entwicklung engmaschig zu begleiten.         
    
