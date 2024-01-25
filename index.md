@@ -17,7 +17,7 @@ Prof. Dr. med. Mario Schiffer, der Direktor der Klinik für Innere Medizin 4 der
    
 Wir würden uns wie immer sehr freuen, diese Themen bei dieser 179. Veranstaltung mit Ihnen diskutieren zu dürfen.         
 
-<a class="button" href="https:/teams.microsoft.com/l/meetup-join/19*3ameeting_YmUxOTUxMDQtOWQ3MC00MWNkLWJhZmQtODZkMGRiMmM0OGE3*40thread.v2/0?context=*7b*22Tid*22*3a*22e6160a47-a12e-4ab1-be56-bddd09456693*22*2c*22Oid*22*3a*2254de3200-43af-4cbb-8fde-9d0457be7bcb*22*7d__;JSUlJSUlJSUlJSUlJSUl!!On_szuMZSg!P8KCBVeQsPDEIxj4qwiFDVMO5JeH1etvPsBx6GpLpi5veQZ0VTaIMGUiJ7xRwgLwe7KPxeebrT0HLDLQDSS2$" target="_blank">Hier geht es zur Fortbildung!</a>  
+<a class="button" href="https://urldefense.com/v3/__https:/teams.microsoft.com/l/meetup-join/19*3ameeting_YmUxOTUxMDQtOWQ3MC00MWNkLWJhZmQtODZkMGRiMmM0OGE3*40thread.v2/0?context=*7b*22Tid*22*3a*22e6160a47-a12e-4ab1-be56-bddd09456693*22*2c*22Oid*22*3a*2254de3200-43af-4cbb-8fde-9d0457be7bcb*22*7d__;JSUlJSUlJSUlJSUlJSUl!!On_szuMZSg!P8KCBVeQsPDEIxj4qwiFDVMO5JeH1etvPsBx6GpLpi5veQZ0VTaIMGUiJ7xRwgLwe7KPxeebrT0HLDLQDSS2$" target="_blank">Hier geht es zur Fortbildung!</a>  
 
 Mit herzlichen Grüßen Ihr  
 
