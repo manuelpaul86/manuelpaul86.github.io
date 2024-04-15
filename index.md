@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Barmbeker Nephrologie Gespräche
+title: Startseite
 ---
 ## Liebe Kolleginnen und Kollegen,   
 

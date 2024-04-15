@@ -21,7 +21,7 @@
 title: Barmbeker Nephrologie Gespräche
 email: tob.meyer@asklepios.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Eine monatliche Fortbildung für Nephrologen. Die Veranstaltung ist ein hybrides Event. Die Termine finden vor Ort in der Asklepios Klinik Barmbek in Hamburg statt. Online können sie von der ganzen Welt via Microsoft Teams teilnehmen.
+  Eine monatliche Fortbildung für Nephrologen. Teilnahme vor Ort in der Asklepios Klinik Barmbek in Hamburg oder Online via Microsoft Teams. Vielfältige Themen, bspw. Dialyse, Glomerulonephritis, Transplantation.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://nephrologiehamburg.de" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
